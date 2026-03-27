@@ -1,8 +1,5 @@
 # Hey, I'm Dominik 👋
 
-Fullstack Developer based in Wrocław, Poland.  
-I build web applications — from UI to backend and database.
-
-## Contact
-
-[LinkedIn](https://linkedin.com/in/dominik-perlak) · dominikperlak2@gmail.com
+I'm a Fullstack Developer from Wrocław who likes building things
+that actually work — from pixel-perfect interfaces to backend logic
+and everything in between.
