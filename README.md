@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Dominik 👋
 
-<!--
-**dominikperlak/dominikperlak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer based in Wrocław, Poland.  
+I build web applications — from UI to backend and database.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:** Next.js · React · TypeScript · Tailwind CSS  
+**Backend:** Node.js · Express.js · REST API  
+**Databases:** PostgreSQL · MongoDB · Supabase · Prisma  
+**Tools:** Docker · Git · Vercel · Postman
+
+## Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [ResumeBot](https://github.com/dominikperlak/resumebot) | Resume builder with real-time preview and drag-and-drop | Next.js, Supabase, Tailwind |
+| [Admin Dashboard](https://github.com/dominikperlak/admin-dashboard) | Full-stack admin panel with auth and content management | Next.js, MongoDB |
+| [FocusVault](https://github.com/dominikperlak/focus-vault) | Mobile deep work session tracker | React Native, Expo, SQLite |
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/dominik-perlak) · dominikperlak2@gmail.com
